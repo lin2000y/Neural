@@ -1,0 +1,17 @@
+c:\users\cabbage08\documents\visual studio 2012\Projects\NN\NN\bin\Debug\NN.exe.config
+c:\users\cabbage08\documents\visual studio 2012\Projects\NN\NN\bin\Debug\NN.exe
+c:\users\cabbage08\documents\visual studio 2012\Projects\NN\NN\bin\Debug\NN.pdb
+c:\users\cabbage08\documents\visual studio 2012\Projects\NN\NN\obj\Debug\NN.csprojResolveAssemblyReference.cache
+c:\users\cabbage08\documents\visual studio 2012\Projects\NN\NN\obj\Debug\NN.exe
+c:\users\cabbage08\documents\visual studio 2012\Projects\NN\NN\obj\Debug\NN.pdb
+D:\c#\Projects\NN\NN\bin\Debug\NN.exe.config
+D:\c#\Projects\NN\NN\bin\Debug\NN.exe
+D:\c#\Projects\NN\NN\bin\Debug\NN.pdb
+D:\c#\Projects\NN\NN\obj\Debug\NN.exe
+D:\c#\Projects\NN\NN\obj\Debug\NN.pdb
+D:\c#\Projects\NN\NN\obj\Debug\NN.csprojResolveAssemblyReference.cache
+C:\Users\frank_000\Desktop\Projects\most\Projects\NN\NN\bin\Debug\NN.exe.config
+C:\Users\frank_000\Desktop\Projects\most\Projects\NN\NN\obj\Debug\NN.exe
+C:\Users\frank_000\Desktop\Projects\most\Projects\NN\NN\obj\Debug\NN.pdb
+C:\Users\frank_000\Desktop\Projects\most\Projects\NN\NN\bin\Debug\NN.exe
+C:\Users\frank_000\Desktop\Projects\most\Projects\NN\NN\bin\Debug\NN.pdb
