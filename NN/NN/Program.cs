@@ -196,7 +196,7 @@ namespace NN
 			    }
 		    }
 	    }
-        public static double SigmoidFunctiondev(double x)
+        public static double SigmoidFunctiondev(double x)// This is the inverse of the activation function
         {
             return (SigmoidFunction(x) * (1 - SigmoidFunction(x)));
         }
