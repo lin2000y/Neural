@@ -101,6 +101,11 @@ namespace NN
                 {
                     Console.ForegroundColor = ConsoleColor.Green;
                 }
+                int spaces = biggest - aon[an];
+                for (int k = 0; k < spaces; k++)
+                {
+                    Console.Write(" ");
+                }
                 for (int lyr = 0; lyr < aon[an]; lyr++)
                 {
                     Console.Write("O ");
